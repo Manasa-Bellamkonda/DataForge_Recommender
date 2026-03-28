@@ -122,6 +122,11 @@ Team 40 — DataForge
 
 ---
 
+## 🔗 Repository
+https://github.com/Manasa-Bellamkonda/DataForge_Recommender
+
+---
+
 ## 📘 Course
 
 CSC 4740/6740 Data Mining
