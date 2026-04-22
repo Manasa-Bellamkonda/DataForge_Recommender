@@ -1,2 +1,3 @@
 Matrix Factorization RMSE: 0.9361
-Hybrid Model RMSE: 0.9291
+Static Model RMSE: 0.9291
+Adaptive Hybrid RMSE: 0.9617
