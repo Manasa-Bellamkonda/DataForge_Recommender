@@ -105,7 +105,9 @@ CSC 4740/6740 Data Mining
 
 ## 🎥 Demo Video
 
-👉 Watch the project demo here:  
+This video demonstrates the complete implementation and evaluation of the Adaptive Hybrid Recommender System.
+
+▶️ [Click here to watch the demo](https://us02web.zoom.us/clips/share/uH5hbypjQse3I3UZ8AFEBw)
 
 ## 🔗 Repository
 https://github.com/Manasa-Bellamkonda/DataForge_Recommender
